@@ -18,8 +18,5 @@
 
 # spring 흐름 및 동작과정
 
----
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/463613fe-24be-4531-ac2a-ff2687f2d98d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/463613fe-24be-4531-ac2a-ff2687f2d98d/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae4dbb3-6a1f-4a62-81df-6fde9c30a3ce/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae4dbb3-6a1f-4a62-81df-6fde9c30a3ce/Untitled.png)
+![spring1](https://github.com/shshshee/TIL/blob/main/spring/image/Untitled.png?raw=true)
+![spring2](https://github.com/shshshee/TIL/blob/main/spring/image/Untitled%201.png?raw=true)
